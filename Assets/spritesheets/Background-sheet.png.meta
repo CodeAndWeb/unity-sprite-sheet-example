@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: c876766bff6a1cd4d86bf115804cfd50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8396046199397951121
+    second: Background-sheet_0
+  - first:
+      213: 1943648005584735586
+    second: Background-sheet_1
+  - first:
+      213: -1283841140722253795
+    second: Background-sheet_2
+  - first:
+      213: -8299844487664908090
+    second: Background-sheet_3
+  - first:
+      213: -8490473190459973316
+    second: Background-sheet_4
+  - first:
+      213: 8757814692617939913
+    second: Background-sheet_5
+  - first:
+      213: 5239007696485338789
+    second: Background-sheet_6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 597
+        width: 2000
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 2.2026432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c1323c80579e4bbd3f11c52409766
+      internalID: 1507904587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hills
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 826
+        width: 2000
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2376238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80582fde1fd5dee47841d5b4f5a81d80
+      internalID: 507478278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: midground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 2000
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 2.5251799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db198f9c99deeb64bbd97ddad74cc11e
+      internalID: 757884283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sky
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1232
+        width: 2000
+        height: 815
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38650307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e031de35d45784591953013be266a0
+      internalID: 133642715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocks-1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 227
+        width: 209
+        height: 227
+      alignment: 9
+      pivot: {x: 0.52392346, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc46e34306dcd048bc4690f890461b1
+      internalID: 1886784511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocks-2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 265
+        height: 326
+      alignment: 9
+      pivot: {x: 0.6245283, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f5eddc8c30e24e98b98c4831f6b4a
+      internalID: 1092404994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocks-3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 206
+        height: 250
+      alignment: 9
+      pivot: {x: 0.7718447, y: 0.558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb761ae1291f7bd419c0f5d988969be3
+      internalID: -2059897565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 58d3fec00bf5e6d409a59d014d258f8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ground: 1507904587
+      hills: 507478278
+      midground: 757884283
+      rocks-1: 1886784511
+      rocks-2: 1092404994
+      rocks-3: -2059897565
+      sky: 133642715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
