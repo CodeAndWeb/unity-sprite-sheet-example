@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class walk : MonoBehaviour
+public class PlayerMove : MonoBehaviour
 {
 	Animator anim;
 	SpriteRenderer sprite;
